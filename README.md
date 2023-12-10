@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dams</h1>
 
-- 🔭 I’m currently working on **Shapy**
+- 🔭 I’m currently working on **Marks**
 
-- 🌱 I’m currently learning **Swift**
+- 🌱 I’m currently learning **Javascript**
 
 - ⚡ Fun fact **Sometimes I sleep**
 
