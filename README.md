@@ -1,11 +1,11 @@
 # Hello ! I'm Damien ! 👋
 
 > **🌆 French Student in 10th grade**<br>
-> **💻 Dev Web Fullstack**<br>
+> **💻 Goal: Dev Web Fullstack**<br>
 
 
 ## 📝 Currently working on
-- 🔭 I’m currently working on StudyStats
+- 🔭 I’m currently working on StudySmart
 
 ## ✉️ Connect with me
 - 🍱 Gmail: rifflartdamiencontact@gmail.com
