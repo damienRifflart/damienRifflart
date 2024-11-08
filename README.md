@@ -1,17 +1,28 @@
-# Hello ! I'm Damien ! 👋
+<h1 align="center">Hello! I'm Damien 👋</h1>
 
-> **🌆 French Student in 11th grade**<br>
-> **💻 Goal: Dev web**<br>
+# About me
+**I am a beginner programmer** working on improving my web development skills. I mainly code in [Typescript](https://www.typescriptlang.org/) with the [React](https://react.dev/) library, though I also love programming in [Python](https://www.python.org/). Most of my projects help me improve my design and coding skills, like [StudySmart](https://github.com/damienRifflart/StudySmart).
 
+___
 
-## 📝 Currently working on
-- 🔭 I’m currently working on my portfolio
+[![Damien's GitHub stats](https://github-readme-stats.vercel.app/api?username=damienRifflart&show_icons=true&theme=dark)](https://github.com/damienRifflart/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damienRifflart&layout=compact&langs_count=8&theme=dark&card_width=295)](https://github.com/anuraghazra/github-readme-stats)
 
-## ✉️ Connect with me
-- 🍱 Gmail: rifflartdamiencontact@gmail.com
+---
 
-## Stats & Tools
-  <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### **Languages and Tools:**
+<div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=damienrifflart&show_icons=true&theme=dracula&locale=en" alt="damienrifflart" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=damienrifflart&" alt="damienrifflart" /></p>
+![HTML](https://img.shields.io/badge/-Python-070404?style=for-the-badge&logo=python)
+![HTML](https://img.shields.io/badge/-HTML-070404?style=for-the-badge&logo=HTML5)
+![HTML](https://img.shields.io/badge/-CSS-070404?style=for-the-badge&logo=css3&logoColor=2965f1)
+![HTML](https://img.shields.io/badge/-Typescript-070404?style=for-the-badge&logo=typescript)
+
+![HTML](https://img.shields.io/badge/-React-070404?style=for-the-badge&logo=react)
+![HTML](https://img.shields.io/badge/-Supabase-070404?style=for-the-badge&logo=supabase)
+![HTML](https://img.shields.io/badge/-Github-070404?style=for-the-badge&logo=Github)
+</div>
+
+---
+### **Contact me!**
+<p><strong>Gmail:</strong> rifflartdamiencontact@gmail.com</p>
+<p><strong>Discord:</strong> oDams</p>
