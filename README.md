@@ -24,5 +24,5 @@ ___
 
 ---
 ### **Contact me!**
-<p><strong>Gmail:</strong> rifflartdamiencontact@gmail.com</p>
+<p><strong>Gmail:</strong> rifflartdamien68@gmail.com</p>
 <p><strong>Discord:</strong> oDams</p>
