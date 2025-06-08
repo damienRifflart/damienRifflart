@@ -20,6 +20,7 @@ ___
 ![HTML](https://img.shields.io/badge/-React-070404?style=for-the-badge&logo=react)
 ![HTML](https://img.shields.io/badge/-Supabase-070404?style=for-the-badge&logo=supabase)
 ![HTML](https://img.shields.io/badge/-Github-070404?style=for-the-badge&logo=Github)
+![HTML](https://img.shields.io/badge/-MongoDB-070404?style=for-the-badge&logo=MongoDB)
 </div>
 
 ---
