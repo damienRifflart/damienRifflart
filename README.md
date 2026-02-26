@@ -1,7 +1,7 @@
 <h1 align="center">Hello! I'm Damien :wave:</h1>
 
 # About me
-**I am a beginner programmer** working on improving my web development skills. I mainly code in [Typescript](https://www.typescriptlang.org/) with the [React](https://react.dev/) library, though I also love programming in [Python](https://www.python.org/). Most of my projects help me improve my design and coding skills, like [Quizzlify](https://quizzlify.vercel.app) and [StudySmart](https://github.com/damienRifflart/StudySmart). You can find my website at [this url](https://rifflartdamien.me/).
+**I am a programmer** working on improving my web development skills. I mainly code in [Typescript](https://www.typescriptlang.org/) with the [React](https://react.dev/) library, though I also love programming in [Python](https://www.python.org/). Most of my projects help me improve my design and coding skills, like [Quizzlify](https://quizzlify.vercel.app) and [Airflow](https://github.com/damienRifflart/Airflow). You can find my website at [this url](https://rifflartdamien.me/).
 
 ___
 
